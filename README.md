@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Prajyot Phadtare 👋
 
-<!--
-**prajyotphadtare/prajyotphadtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Data Science student at MIT World Peace University, Pune (graduating 2027), with a B.Sc. in Computer Science.
 
-Here are some ideas to get you started:
+## What I'm working on
+- AirSense Pune: an air quality (AQI) forecasting project using machine learning
+- Strengthening my SQL and building analytics projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python • pandas • SQL (learning) • Tableau • Excel
+
+## Looking for
+Data analyst and data science internships and entry-level roles.
+
+📧 prajyotphadtare@gmail.com
